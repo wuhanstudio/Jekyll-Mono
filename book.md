@@ -1,9 +1,9 @@
 ---
 layout: page
-title:
+title: 我想说的话
 permalink: /book/
 ---
-# 我想说的话
+# I think
 
 有人说，只要能在一个方向做的很深，就是很厉害的人了，  
 
@@ -18,6 +18,8 @@ permalink: /book/
 慢慢享受挖掘的乐趣。
 
 于是，我将我的好奇心曾经到过的地方，记录了下来。   
+
+***
 
 # [机械](/books/Mechanical-Design/)
 包括机械设计和加工。
