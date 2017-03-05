@@ -19,6 +19,8 @@ permalink: /book/
 
 于是，我将我的好奇心曾经到过的地方，记录了下来。   
 
+Updating ...
+
 ***
 
 # [机械](/books/Mechanical-Design/)
