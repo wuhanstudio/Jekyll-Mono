@@ -42,4 +42,4 @@ Grub4DOS 的常用系统引导项
 
 ***
 ## Contact me
-[wuhanstudio@qq..com](mailto:wuhanstudio@qq.com)
+[wuhanstudio@hust.edu.cn](mailto:wuhanstudio@hust.edu.cn)
