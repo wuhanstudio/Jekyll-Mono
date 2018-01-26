@@ -36,6 +36,6 @@ permalink: /about/
 
 ## Contact me
 
-[wuhanstudio@qq.com](mailto:wuhanstudio@qq.com)
+[wuhanstudio@hust.edu.cn](mailto:wuhanstudio@hust.edu.cn)
 
 <br/>
